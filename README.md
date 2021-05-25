@@ -10,10 +10,12 @@ out later.
 In case if there are any header named as “password”, the value should be encrypted 
 dynamically and saved in the database.
 Share the final coding via GitHub
+
 Notes:
 1. Use any programming language to achieve the above task
 2. No restrictions on database selection
 3. Create a randomly-generated CSV file for the task
+ 
 Evaluation Criteria’s:
 1. All the above instructions should be covered
 2. Show progress of processing and also show how long it took to process
